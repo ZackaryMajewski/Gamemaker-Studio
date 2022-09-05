@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Need to update.
+This game was created in Gamemaker Sutdio 2 from the gamemaker langrage. Withing this game the player will be trying to get as high of a score from defeating enemies and collecting chests around the levels. 
 <br />
 
 
@@ -14,7 +14,7 @@ Need to update.
 
 - <b>Windows 10</b>
 
-<h2>Models:</h2>
+<h2>Project:</h2>
 
 <p align="center">
 Main Menu: <br />
